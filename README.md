@@ -16,9 +16,22 @@ A flexible, highly customizable modal component for React Native with built-in s
 
 ```bash
 npm install @nonsobarn/react-native-versatile-modal
-# or
+```
+
+or with yarn:
+
+```bash
 yarn add @nonsobarn/react-native-versatile-modal
 ```
+
+### Compatibility
+
+- React Native >= 0.60.0
+- React >= 16.8.0
+- iOS 11.0+
+- Android API 21+
+
+No additional native dependencies required! ✨
 
 ## Basic Usage
 
@@ -280,7 +293,7 @@ import ModalWrapper, {
   ModalWrapperProps,
   ThemeConfig,
   ResponsiveConfig,
-} from 'react-native-versatile-modal';
+} from '@nonsobarn/react-native-versatile-modal';
 ```
 
 ## Performance Tips
@@ -307,12 +320,12 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ## License
 
-MIT © [Your Name]
+MIT © NonsoBarn
 
 ## Support
 
-- 🐛 [Report bugs](https://github.com/yourusername/react-native-versatile-modal/issues)
-- 💬 [Discussions](https://github.com/yourusername/react-native-versatile-modal/discussions)
+- 🐛 [Report bugs](https://github.com/NonsoBarn/react-native-versatile-modal/issues)
+- 💬 [Discussions](https://github.com/NonsoBarn/react-native-versatile-modal/discussions)
 - ⭐ Star this repo if you find it useful!
 
 ---
