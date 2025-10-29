@@ -1,0 +1,31 @@
+# Source files (only ship compiled code)
+src/
+tsconfig.json
+
+# Tests
+**/__tests__/
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+coverage/
+jest.config.js
+
+# Development files
+.eslintrc.js
+.prettierrc.js
+.editorconfig
+
+# Documentation sources
+docs/
+
+# CI/CD
+.github/
+.travis.yml
+.circleci/
+
+# Misc
+*.log
+.DS_Store
+.vscode/
+.idea/
