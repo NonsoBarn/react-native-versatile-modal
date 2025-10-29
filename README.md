@@ -1,4 +1,8 @@
 # React Native Versatile Modal
+[![npm version](https://badge.fury.io/js/@nonsobarn%2Freact-native-versatile-modal.svg)](https://www.npmjs.com/package/@nonsobarn/react-native-versatile-modal)
+[![npm downloads](https://img.shields.io/npm/dm/@nonsobarn/react-native-versatile-modal.svg)](https://www.npmjs.com/package/@nonsobarn/react-native-versatile-modal)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/nonsobarn/react-native-versatile-modal.svg?style=social&label=Star)](https://github.com/nonsobarn/react-native-versatile-modal)
 
 A flexible, highly customizable modal component for React Native with built-in support for bottom sheets, drawers, center modals, and full-screen modals. Features smooth animations, gesture support, and TypeScript definitions.
 
